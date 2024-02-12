@@ -1,0 +1,204 @@
+.header{ width: 1340px;
+      height: 450px;
+      background-image:url(./Header\ Background\ Image.jpeg);
+      color: white;
+
+ }
+
+.nav{ position: fixed;
+      width: 1340px;
+      height: 60px;  
+      position: top;
+      background-color: purple;
+      color: white;
+}
+.nav a:hover { text-underline-position: below;
+            color:orange }
+a{ text-decoration: none;
+      color: white;
+    margin-left: 60px;
+ }
+ .FED, .EX{ margin-left: 0px; 
+            font-size: 30px;
+            font-weight: bold;
+}
+.FED{ padding-left: 40px;
+      }
+.ship{      font-size: 60px; 
+            text-align: center;
+            padding-top: 100px;
+}
+option{ size: 2px;}
+.mainbox{ text-align: center;
+          padding-top: 25px;  
+          
+}
+.box1{ text-align: center;
+      width: 110px;
+      height: 100px;
+      
+      display: inline-block;
+      
+      
+}
+.box2{ text-align: center;
+      width: 110px;
+      height: 92px;
+      padding-left: 65px;
+      display: inline-block;
+      }
+
+.box4 img{ text-align: center;
+      width: 80px;
+      height: 66px;
+      position: relative;
+      bottom: 100px;
+      display: inline-block;}
+
+.placetrack{ text-align: center;
+            margin-top: 0px;
+}
+.placeholder{ width: 160px;
+            height: 80px;
+      display: inline-block; 
+}
+button {width: 100px; 
+      height: 40px;
+      color: white;
+      background-color: orange;
+      margin-left: 15px;
+      display: inline-block;
+      }
+.Afterplaceholder{ display: inline;
+                  text-align: center; color: rgb(197, 52, 52);}
+.no a{ 
+      color: white;
+       border-right: 2px;
+      border-color: black; 
+      display: inline-block;}
+.help a{ border-left: 2px;
+      color: white;
+      border-color: black;
+      
+      display: inline-block;}
+.two{ text-align: center; 
+      margin-top: 20px;}
+hr{ width: 1280px; float: left;}
+.arrowpic{margin: 10px 5px;
+            margin-left: 180px;
+       background-image: url(./aeropic2.jpeg);
+           width: 970PX;
+           height: 280px;
+}
+.arrowpic1{ color: black; font-size: 40px; padding-top: 20px;}
+.arrowpic2{ color: black; margin-top: 15px;}
+.button1 a{ padding: 10PX 8px 10px 8px;
+            
+          height: 500px;
+          width: 180px;
+          color: blue;
+          border: 2px solid blue;
+          border-radius: 50px;
+      }
+.part3{ text-align: center;
+        font-size: 30px;
+      margin-top: 30px;}
+.images{ text-align: center;}
+.img1{ width: 127px;
+       height: 127px;
+       background-image: url(./Part\ 3\ pic1.jpeg);
+       display: inline-block;
+      margin-left: 50px;}
+.img2{ width: 130px;
+      height: 130px;
+      background-image: url(./Part\ 3\ pic3.jpeg);
+      display: inline-block;
+      margin-left: 80px;}
+.img3{ width: 130px;
+      height: 130px;
+      background-image: url(./Part\ 3\ pic2.jpeg);
+      display: inline-block;
+      margin-left: 80px;}
+.img4{ width: 130px;
+      height: 130px;
+      background-image: url(./Part\ 3\ pic5.jpeg);
+      display: inline-block;
+      margin-left: 80px;}
+.imagesname{ display: inline-block; margin-left: 230px;}
+.img1a a{ color: rgb(85, 94, 233); }
+.img2a a{ color: rgb(47, 93, 153);}
+.img3a a{ color: rgb(65, 110, 235);}
+.img4a a{ color: rgb(48, 103, 204);}
+.third{ text-align: center; margin-top: 30px;}
+.Trophy{ margin-left: 130px;
+      display: inline-block;}
+      
+.mainfeb{ background-color: rgb(190, 176, 176);
+            margin-left: 50px;
+          width: 500px;
+            height: 300px;
+            position:relative;
+            bottom: 56px;
+            display: inline-block;
+           
+            }
+.feb img{ 
+       width: 150px;
+       height: 80px;
+       padding-top: 10px;}
+.textlarge{font-size: 30px; }
+.textsmall{ padding-top: 30px;}
+.a a{ padding-top: 20px; 
+      float: left;
+      color: blue;
+      font-weight: bold;}
+.forth{ text-align: center; margin-top: 30px;}
+.picone{
+      /* width: 450px;
+         height: 300px;*/
+         padding-left: 50px;
+         display: inline-block;}
+.pictwo{ 
+     /* width: 450px;
+      height: 300px;*/
+      padding-left: 100px;
+      display: inline-block;}
+.fifth{ margin-top: 30px; 
+            text-align: center; }
+.fifthone{ color: black;
+      width: 450px;
+      height: 300px;
+      
+      display: inline-block;
+ }
+ .foo{ font-size: 40px;}
+ .fto{ font-size: 40px;}
+.fifthtwo{ color: black;
+      position: relative;
+      margin-left: 90px;
+      bottom: 0px;
+      width: 450px;
+      height: 300px;
+      display: inline-block;
+ }
+ .fot{ padding-top: 30px;}
+ .ftt{ padding-top: 30px;}
+.fothr a{ margin-top: 80px;
+color: blue;
+float: left;}
+.ftthr a{ margin-top: 80px;
+      padding-left: 0px;
+      color: blue;
+      float: left;}
+.footer{
+      width: 1340px;
+      height: 60px;  
+      bottom: 5px;
+      background-color: purple;
+      color: white;
+       }
+.footer a{ border-left: 4px solid black; 
+            }
+ .fot1{ padding-top: 30px; 
+        float: left;}
+
